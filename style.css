@@ -128,8 +128,9 @@ main {
    background-color: transparent; 
    margin: auto;  
    width: 100%;
-   justify-content: space-around;
-}
+   
+   
+   }
 #locationinfo li {
     width: 300px;
     list-style: none;
