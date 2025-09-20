@@ -107,6 +107,10 @@ main {
     height: 500px;
     
 }
+#locations ul {
+    padding: 0;
+    margin: 0;
+}
 #locations h2 {
     font-size: 40px;
     padding-top: 50px;
