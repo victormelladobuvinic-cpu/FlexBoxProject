@@ -144,19 +144,35 @@ main {
 /* footer */
 footer {
     height: 200px;
-    
     margin-bottom: 0px;
 }
 footer h2 {
     font-size: 30px;
     margin: 0;
+    text-align: center;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer h5 {
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 110px;
+    margin-top: 10px;
 }
 footer p {
     font-size: 15px;
     margin: 0;
     text-align: left;
-    
     padding: 0 20px;
+    width: 100%;
    
     }
+
 
